@@ -57,5 +57,18 @@
                 "url": "https://oldbytes.space/@tarek"
             }
         ]
+    },
+    {
+        "label": "Deutsch",
+        "label_en": "German",
+        "lang_dir": "LTR",
+        "code": "de-DE",
+        "available": true,
+        "translators": [
+            {
+                "name": "Thomas Nesges",
+                "url": "https://mastodon.pnpde.social/@dnddeutsch"
+            }
+        ]
     }
 ]
