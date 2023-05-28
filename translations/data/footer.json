@@ -4,13 +4,15 @@
         "sk": "O projekte",
         "ru": "О проекте",
 		"fr": "A propos du projet",
-        "ar": "عن هذا المشروع"
+        "ar": "عن هذا المشروع",
+        "de-DE": "�ber dieses Projekt"
     },
     "view_source": {
         "en-us": "View source",
         "sk": "Zobraziť zdrojový kód",
         "ru": "Посмотреть исходный код",
         "fr": "Accéder au code source",
-        "ar": "عرض شفرة المصدر"
+        "ar": "عرض شفرة المصدر",
+        "de-DE": "Quellcode ansehen"
     }
 }
