@@ -93,7 +93,7 @@
         "fr": "Intéressant !",
         "ru": "Интересно",
         "ar": "ممتع",
-		"de-DE": "Interessant",
+		"de-DE": "Interessant"
     },
     "intro_fediverse_is": {
         "en-us": "Fediverse is a common name for social media sites that <mark>cooperate</mark> instead of competing.",
@@ -117,7 +117,7 @@
         "fr": "Génial !",
         "ru": "Отлично!",
         "ar": "ممتاز!",
-		"de-DE": "Alles klar!",
+		"de-DE": "Alles klar!"
     },
     "outro_join": {
         "en-us": "Join the fediverse",
