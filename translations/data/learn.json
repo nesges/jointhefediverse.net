@@ -5,7 +5,7 @@
         "ru": "Погружаясь в <mark>fediverse</mark>",
         "fr": "S'immerger dans le <mark>fediverse</mark>",
         "ar": "التعمق في <mark> الفديفيرس </ mark>",
-        "de-de": "Eintauchen ins <mark>Fediverse</mark>"
+        "de-DE": "Eintauchen ins <mark>Fediverse</mark>"
     },
     "what_is_fediverse": {
         "en-us": "<p><a href='https://en.wikipedia.org/wiki/Fediverse'>Fediverse</a> is <mark>vast</mark>. It's made up of thousands of communities with millions of people like you and me, wanting to <mark>connect and share</mark>.</p><p>Here's a few resources that will help you get a better idea of how things work, how to find a community that's right for you, and explore tools you can use to make your experience even better.</p>",
@@ -13,7 +13,7 @@
         "ru": "<p><a href='https://ru.wikipedia.org/wiki/Fediverse'>Fediverse</a> место <mark>обширное</mark>.  Оно состоит из тысяч сообществ с миллионами таких людей как я и вы, желающих <mark>общаться и делиться</mark>.</p><p>Вот несколько ресурсов, которые помогут лучше понять, как всё это работает, как найти сообщество, которое вам подходит, и изучить инструменты, которые можно использовать для улучшения своего опыта в ещё большей степени.</p>",
         "fr": "<p>Le <a href='https://en.wikipedia.org/wiki/Fediverse'>Fediverse</a> est <mark>vaste</mark>. Il est composé de milliers de communautés avec des millions de personnes comme vous et moi, qui souhaitent <mark>se connecter et partager</mark>.</p><p>Voici quelques ressources qui vont vous aider à mieux appréhender comment tout cela fonctionne, comment trouver la communauté qui vous correspond, et explorer les outils qui amélioreront encore votre expérience.</p>",
         "ar": "<p> <a href='https://en.wikipedia.org/wiki/Fediverse'> الفديفيرس </a> <mark> واسع </ mark>. يتكون من آلاف المجتمعات التي تضم ملايين الأشخاص مثلي ومثلك ، ويرغبون في <mark> الاتصال والمشاركة </ mark>. </p> <p> إليك بعض الموارد التي ستساعدك في الحصول على فكرة أفضل عن كيفية تعمل الأشياء ، وكيفية العثور على مجتمع مناسب لك ، واستكشاف الأدوات التي يمكنك استخدامها لتحسين تجربتك. </ p>",
-          "de-de": "<p>Das <a href='https://de.wikipedia.org/wiki/Fediverse'>Fediverse</a> ist <mark>riesig</mark>. Es besteht aus Tausenden von Communities mit Millionen von Menschen wie Du und ich, die sich <mark>austauschen</mark> und <mark>vernetzen</mark> wollen.</p><p>Hier sind ein paar Ressourcen, die dir eine bessere Vorstellung darüber vermitteln, wie die Sache eigentlich funktioniert, wie Du die richtige Community für Dich findest und welche Werkzeuge Du verwenden kannst, um Deinen Aufenthalt noch besser zu gestalten.</p>"
+        "de-DE": "<p>Das <a href='https://de.wikipedia.org/wiki/Fediverse'>Fediverse</a> ist <mark>riesig</mark>. Es besteht aus Tausenden von Communities mit Millionen von Menschen wie Du und ich, die sich <mark>austauschen</mark> und <mark>vernetzen</mark> wollen.</p><p>Hier sind ein paar Ressourcen, die dir eine bessere Vorstellung darüber vermitteln, wie die Sache eigentlich funktioniert, wie Du die richtige Community für Dich findest und welche Werkzeuge Du verwenden kannst, um Deinen Aufenthalt noch besser zu gestalten.</p>"
     },
     "faq_title": {
         "en-us": "Frequently Asked Questions",
@@ -21,15 +21,15 @@
         "ru": "Часто Задаваемые Вопросы",
         "fr": "Questions fréquentes",
         "ar": "أسئلة يتكرر طرحها",
-        "de-de": "Häufige Fragen"
+        "de-DE": "Häufige Fragen"
     },
     "faq_instance_q": {
         "en-us": "Q: What is an \"instance\"? How do I pick one?",
         "sk": "Otázka: Čo je to \"inštancia\"? Ako si vyberiem tú správnu?",
         "ru": "В: Что такое \"инстанс\"? Как мне его выбрать?",
         "fr": "Question : Qu'est-ce qu'une \"instance\" ? Comment dois-je choisir ?",
-        "ar": "س: ما هو \"إنستنس\"؟ كيف أختار واحدة؟"
-        "de-de": "Frage: Was ist eine \"Instanz\"? Wie entscheide ich mich für eine?",
+        "ar": "س: ما هو \"إنستنس\"؟ كيف أختار واحدة؟",
+        "de-DE": "Frage: Was ist eine \"Instanz\"? Wie entscheide ich mich für eine?"
     },
     "faq_instance_a": {
         "en-us": "<p><strong>A:</strong> Each fediverse network is made up of <mark>\"instances\"</mark>, or <mark>\"servers\"</mark>. For example, if you want to join <a href='https://joinmastodon.org/'>Mastodon</a>, you can sign up for an account on <a href='https://mastodon.social'>mastodon.social</a> or <a href='https://mas.to'>mas.to</a>, or <a href='https://joinmastodon.org/servers'>any other Mastodon server</a>.</p><p>You can even <a href='https://stefanbohacek.com/blog/lessons-learned-from-running-a-single-person-mastodon-instance/#hosting'>run your own server</a>.</p><p>Moving between different instances is easy, and you'll be able to <mark>carry your friends and followers with you</mark>, so don't worry about picking the right instance from the start. Just sign up, feel things out, and you can move to another instance, or another network altogether, if you find a better fit.</p>",
@@ -37,7 +37,7 @@
         "ru": "<p><strong>О:</strong> Каждая сеть fediverse состоит из <mark>\"инстансов\"</mark>, или <mark>\"серверов\"</mark>. Например, если вы хотите зарегистрироваться на <a href='https://joinmastodon.org/'>Mastodon</a>, вы можете зарегистрировать аккаунт на <a href='https://mastodon.social'>mastodon.social</a> или <a href='https://mas.to'>mas.to</a>, или на <a href='https://joinmastodon.org/servers'>любом другом сервере mastodon</a>.</p><p>Вы даже можете <a href='https://stefanbohacek.com/blog/lessons-learned-from-running-a-single-person-mastodon-instance/#hosting'>запустить свой собственный сервер</a>.</p><p>Мигрировать между серверами довольно просто, и вы сможете <mark>перенести всех своих друзей и подписчиков</mark>, так что не беспокойтесь насчёт того, чтоб выбрать правильный сервер сразу. Просто зарегистрируйтесь, пощупайте всё, и можно будет переехать на другой сервер, или совсем на другую сеть, если вы найдёте что-то, что вам больше подходит.</p>",
         "fr": "<p><strong>Réponse :</strong> Le réseau dans le fediverse est composé d'<mark>\"instances\"</mark> ou <mark>\"serveurs\"</mark>. Par exemple, pour vous inscrire sur <a href='https://joinmastodon.org/'>Mastodon</a>, vous pouvez créer un compte sur <a href='https://mastodon.social'>mastodon.social</a> ou <a href='https://mas.to'>mas.to</a>, ou <a href='https://joinmastodon.org/servers'>tout autre serveur Mastodon</a>.</p><p>Vous pouvez même <a href='https://stefanbohacek.com/blog/lessons-learned-from-running-a-single-person-mastodon-instance/#hosting'>gérer votre propre serveur</a>.</p><p>Il est ensuite facile de changer d'instance, et <mark>vos amis et ceux qui vous suivent \"déménageront\" avec vous</mark>. Le choix de la \"bonne\" instance dès le départ ne doit donc pas vous inquiéter. Créez votre compte, prenez vos marques, et vous pourrez ensuite changer d'instance ou complètement de réseau, si vous trouvez un serveur qui vous convient mieux.</p>",
         "ar": "<p> <strong> ج: </strong> تتكون كل شبكة الفديفيرس من <mark> \"إنستنسس \"</mark> أو <mark> \" سرفير \"</mark>. على سبيل المثال ، إذا كنت تريد الانضمام إلى <a href='https://joinmastodon.org/'> ماستودون </a> ، فيمكنك التسجيل للحصول على حساب على <a href = 'https: //mastodon.social' > mastodon.social </a> أو <a href='https://mas.to'> mas.to </a> أو <a href='https://joinmastodon.org/servers'> أي شيء آخر خادم Mastodon </a>. </p> <p> يمكنك حتى <a href = 'https: //stefanbohacek.com/blog/lessons-learned-from-running-a-single-person-mastodon-instance/ #hosting '> قم بتشغيل السرفير الخاص بك </a>. </p> <p> يعد التنقل بين الحالات المختلفة أمرًا سهلاً ، وستتمكن من <mark> اصطحاب أصدقائك ومتابعيك معك </ mark> ، لذلك لا تقلق بشأن اختيار المثيل الصحيح من البداية. ما عليك سوى الاشتراك ، والاستمتاع بالأشياء ، ويمكنك الانتقال إلى مثيل آخر ، أو شبكة أخرى تمامًا ، إذا وجدت أنسب لك. </ p>",
-        "de-de": "<p><strong>Antwort:</strong> Jedes Netzwerk im Fediverse besteht aus <mark>\"Instanzen\"</mark> oder auch <mark>\"Servern\"</mark>. Wenn du zum Beispiel <a href='https://joinmastodon.org/'>Mastodon</a> beitreten möchtest, kannst du dich für einen Account bei <a href='https://mastodon.social'>mastodon.social</a> oder <a href='https://mas.to'>mas.to</a>, oder <a href='https://joinmastodon.org/servers'>jedem anderen Mastodon-Serverr</a> registrieren.</p><p>Du kannst sogar <a href='https://stefanbohacek.com/blog/lessons-learned-from-running-a-single-person-mastodon-instance/#hosting'>Deinen eigenen Server betreiben</a>.</p><p>Der Wechsel zwischen verschiedenen Instanzen ist einfach und du wirst sogar deine <mark>deine Freund\"innen und Follower mitnehmen</mark>, Du musst Dir also nicht zu viele Gedanken darüber machen, gleich von Anfang an die richtigen Instanz zu wählen. Registriere Dich einfach, schnuppere etwas herein und Du kannst immer noch zu einer anderen Instanz oder sogar zu einem völlig anderen Netzwerk wechseln, wenn etwas anderes besser passt.</p>"
+        "de-DE": "<p><strong>Antwort:</strong> Jedes Netzwerk im Fediverse besteht aus <mark>\"Instanzen\"</mark> oder auch <mark>\"Servern\"</mark>. Wenn du zum Beispiel <a href='https://joinmastodon.org/'>Mastodon</a> beitreten möchtest, kannst du dich für einen Account bei <a href='https://mastodon.social'>mastodon.social</a> oder <a href='https://mas.to'>mas.to</a>, oder <a href='https://joinmastodon.org/servers'>jedem anderen Mastodon-Serverr</a> registrieren.</p><p>Du kannst sogar <a href='https://stefanbohacek.com/blog/lessons-learned-from-running-a-single-person-mastodon-instance/#hosting'>Deinen eigenen Server betreiben</a>.</p><p>Der Wechsel zwischen verschiedenen Instanzen ist einfach und du wirst sogar deine <mark>deine Freund\"innen und Follower mitnehmen</mark>, Du musst Dir also nicht zu viele Gedanken darüber machen, gleich von Anfang an die richtigen Instanz zu wählen. Registriere Dich einfach, schnuppere etwas herein und Du kannst immer noch zu einer anderen Instanz oder sogar zu einem völlig anderen Netzwerk wechseln, wenn etwas anderes besser passt.</p>"
     },
     "faq_decentralized_social_media_q": {
         "en-us": "Q: What is \"decentralized social media\"? Why is it good?",
@@ -45,15 +45,15 @@
         "ru": "В: Что такое \"децентрализованные социальные сети\"? Почему это хорошо?",
         "fr": "Question : Qu'est-ce qu'un \"réseau social décentralisé\" ? Pourquoi est-ce une bonne chose ?",
         "ar": "س: ما هي \"وسائل التواصل الاجتماعي اللامركزية \"؟ لماذا هو جيد؟",
-         "de-de": "Frage: Was sind \"dezentralisierte Soziale Medien\"? Warum ist das eine gute Sache?"
+        "de-DE": "Frage: Was sind \"dezentralisierte Soziale Medien\"? Warum ist das eine gute Sache?"
     },
     "faq_decentralized_social_media_a": {
         "en-us": "<p><strong>A:</strong> Remember when <a href='https://botwiki.org/blog/elon-musk-steps-in-as-the-new-owner-of-twitter/'>Elon Musk bought Twitter</a> and started changing things that drew a lot of people away? This is a lot less likely to happen with <a href='https://en.wikipedia.org/wiki/Distributed_social_network'>social media sites that run across many servers</a>, because you'd have to buy all of them to control the whole network. And people can keep creating new ones.</p>",
         "sk": "<p><strong>Odpoveď:</strong> Pamätáš si, keď <a href='https://botwiki.org/blog/elon-musk-steps-in-as-the-new-owner-of-twitter/' >Elon Musk kúpil Twitter</a> a začal meniť veci, ktoré odlákali veľa ľudí? Toto je oveľa menej pravdepodobné, že sa to stane <a href='https://en.wikipedia.org/wiki/Distributed_social_network'>na stránkach sociálnych médií, ktoré bežia na viacerých serveroch</a>, pretože by bolo treba kúpiť všetky z nich aby si mohol ovládať celú sieť. A ľudia si môžu jednoducho založiť nové serveri.</p>",
         "ru": "<p><strong>О:</strong> Помните, когда <a href='https://botwiki.org/blog/elon-musk-steps-in-as-the-new-owner-of-twitter/'>Илон Маск купил Twitter</a> и начал своими изменениями отталкивать многих людей? Такое куда менее вероятно с <a href='https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C'>децентрализованными социальными сетями, работающими на большом числе серверов</a>, потому что пришлось бы выкупить все сервера, чтобы контролировать сеть полностью. А люди могут просто продолжить поднимать новые сервера.</p>",
-		"fr": "<p><strong>Réponse :</strong> Souvenez-vous que lorsqu'<a href='https://botwiki.org/blog/elon-musk-steps-in-as-the-new-owner-of-twitter/'>Elon Musk a acheté Twitter</a> et a commencé à tout changer, cela a fait fuir nombre d'utilisateurs... Il est peu probable que cela puisse arriver avec <a href='https://en.wikipedia.org/wiki/Distributed_social_network'>des réseaux sociaux distribués sur le multiples serveurs</a>, car il faudrait les acheter tous pour contrôler la totalité du réseau. Et bien évidemment, de nouvelles instances apparaissent régulièrement.</p>",
+        "fr": "<p><strong>Réponse :</strong> Souvenez-vous que lorsqu'<a href='https://botwiki.org/blog/elon-musk-steps-in-as-the-new-owner-of-twitter/'>Elon Musk a acheté Twitter</a> et a commencé à tout changer, cela a fait fuir nombre d'utilisateurs... Il est peu probable que cela puisse arriver avec <a href='https://en.wikipedia.org/wiki/Distributed_social_network'>des réseaux sociaux distribués sur le multiples serveurs</a>, car il faudrait les acheter tous pour contrôler la totalité du réseau. Et bien évidemment, de nouvelles instances apparaissent régulièrement.</p>",
         "ar": "<p> <strong> ج: </ strong> هل تتذكر عندما اشترى إيلون ماسك Twitter وبدأ في تغيير الأشياء التي جذبت الكثير من الناس بعيدًا؟ من غير المرجح أن يحدث هذا كثيرًا مع مواقع التواصل الاجتماعي التي تعمل عبر العديد من الخوادم ، لأنه سيتعين عليك شرائها جميعًا للتحكم في الشبكة بالكامل. ويمكن للأشخاص الاستمرار في إنشاء ملفات جديدة. </ p>",
-        "de-de": "<p><strong>Antwort:</strong> Erinnerst Du dich daran, als <a href='https://botwiki.org/blog/elon-musk-steps-in-as-the-new-owner-of-twitter/'>Elon Musk Twitter gekauft hat</a> und damit begann, Änderungen einzuführen, die eine Menge Leute vertrieben haben? So etwas kann auf  <a href='https://de.wikipedia.org/wiki/Verteiltes_soziales_Netzwerk'>Sozialen Netzwerken, die über viele unterschiedlichen Servern laufen</a> nicht so leicht vorkommen, denn man müsste alle von ihnen aufkaufen, um das gesamte Netzwerk unter Kontrolle zu bekommen. Außerdem kann jedermann jederzeit neue Server aufsetzen.</p>"
+        "de-DE": "<p><strong>Antwort:</strong> Erinnerst Du dich daran, als <a href='https://botwiki.org/blog/elon-musk-steps-in-as-the-new-owner-of-twitter/'>Elon Musk Twitter gekauft hat</a> und damit begann, Änderungen einzuführen, die eine Menge Leute vertrieben haben? So etwas kann auf  <a href='https://de.wikipedia.org/wiki/Verteiltes_soziales_Netzwerk'>Sozialen Netzwerken, die über viele unterschiedlichen Servern laufen</a> nicht so leicht vorkommen, denn man müsste alle von ihnen aufkaufen, um das gesamte Netzwerk unter Kontrolle zu bekommen. Außerdem kann jedermann jederzeit neue Server aufsetzen.</p>"
     },
     "faq_funding_q": {
         "en-us": "Q: Is the fediverse free to join? Who pays for these servers?",
@@ -61,7 +61,7 @@
         "ru": "В: А регистрация в fediverse это бесплатно? Кто платит за эти сервера?",
         "fr": "Question : le fediverse est-il gratuit ? Qui paye pour les serveurs ?",
         "ar": "س: هل الانضمام الى الفديفيرس مجانًا ؟ من يدفع مقابل هذه الخوادم؟ ",
-        "de-de": "Frage: Ist der Einstieg ins Fediverse kostenlos? Wer bezahlt für diese Server?"
+        "de-DE": "Frage: Ist der Einstieg ins Fediverse kostenlos? Wer bezahlt für diese Server?"
     },
     "faq_funding_a": {
         "en-us": "<p><strong>A:</strong> Yes, joining any of the servers is typically free. Communities are maintained and moderated by <mark>volunteers</mark>, often paying for hosting from their own pocket. If you can afford it, and there is an option to do so, consider supporting them with a <mark>donation</mark>.</p>",
@@ -69,7 +69,7 @@
         "ru": "<p><strong>О:</strong> Да, регистрация на любых серверах, как правило, бесплатна. Сообщества содержутся и модерируются <mark>волонтёрами</mark>, зачастую оплачивающими сервера за счёт собственного кармана. Если вы можете себе это позволить, и существует таковая опция, подумайте над тем, чтобы поддержать их <mark>пожертвованием</mark>.</p>",
         "fr": "<p><strong>Réponse :</strong> Oui, la plupart du temps, rejoindre un serveur est gratuit. Les communautés sont gérées et modérées par des <mark>volontaires</mark>, qui payent l'hébergement de leur poche. Si vous pouvez vous le permettre, et si une  telle option existe, pensez à apporter votre soutien financier par une <mark>donation ou contribution régulière</mark>.</p>",
         "ar": "<p> <strong> ج: </ strong> نعم ، عادةً ما يكون الانضمام إلى أي من الخوادم مجانًا. تتم صيانة المنتديات وإدارتها بواسطة <mark> متطوعين </ mark> ، وغالبًا ما يدفعون مقابل الاستضافة من جيوبهم الخاصة. إذا كنت تستطيع تحمل تكلفة ذلك ، وكان هناك خيار للقيام بذلك ، ففكر في دعمهم بتبرع <mark> </mark>. </p>",
-         "de-de": "<p><strong>Antwort:</strong> Ja, es ist meistens kostenlos, sich auf einem Server zu registrieren. Communities werden von <mark>Freiwilligen </mark> betrieben und moderiert, die Betriebskosten übernehmen sie oft aus eigener Tasche. Wenn es diese Option gibt und Du es dir leisten kannst, überlege doch mal, ob Du sie nicht mit einer <mark>Spende</mark> unterstützen kannst.</p>"
+        "de-DE": "<p><strong>Antwort:</strong> Ja, es ist meistens kostenlos, sich auf einem Server zu registrieren. Communities werden von <mark>Freiwilligen </mark> betrieben und moderiert, die Betriebskosten übernehmen sie oft aus eigener Tasche. Wenn es diese Option gibt und Du es dir leisten kannst, überlege doch mal, ob Du sie nicht mit einer <mark>Spende</mark> unterstützen kannst.</p>"
     },
     "faq_rules_q": {
         "en-us": "Q: What rules do I have to follow?",
@@ -77,7 +77,7 @@
         "ru": "В: Какие правила мне нужно соблюдать?",
         "fr": "Question : Y-a-t-il des règles à suivre",
         "ar": "س: ما هي القواعد التي يجب علي اتباعها؟",
-        "de-de": "Frage: Welche Regeln muss ich befolgen?"
+        "de-DE": "Frage: Welche Regeln muss ich befolgen?"
     },
     "faq_rules_a": {
         "en-us": "<p><strong>A:</strong> That depends on the <mark>community</mark>. Each server can set their own rules, but generally it's important to treat other members of the community with <mark>kindness and respect</mark>. A few things to remember:</p>",
@@ -85,7 +85,7 @@
         "ru": "<p><strong>О:</strong> Это зависит от <mark>сообщества</mark>. Каждый сервер имеет свои собственные правила, но во всех случаях важно относиться к другим участникам <mark>доброжелательно и с уважением</mark>. Несколько вещей, которые следует запомнить:</p>",
         "fr": "<p><strong>Réponse :</strong> Tout dépend de la <mark>communauté</mark>. Chaque serveur peut définir ses propres règles, mais en général, il est important de traiter les autres membres avec <mark>respect et gentillesse</mark>. Notez en particulier les points suivants :</p>",
         "ar": "<p> <strong> ج: </ strong> هذا يعتمد على <mark> المجتمع </ mark>. يمكن لكل سرفير وضع قواعده الخاصة ، ولكن بشكل عام من المهم معاملة أعضاء المجتمع الآخرين <mark> بلطف واحترام </ mark>. بعض الأشياء التي يجب تذكرها: </ p>",
-        "de-de": "<p><strong>Antwort:</strong> Das hängt von der <mark>Community</mark> ab. Jeder Server kann eigene Regeln aufstellen, aber im Allgemeinen ist es wichtig, die Mitglieder der Community mit <mark>freundlich und respektvoll</mark> zu behandeln.  Einiges gibt es dabei zu beachten:</p>"
+        "de-DE": "<p><strong>Antwort:</strong> Das hängt von der <mark>Community</mark> ab. Jeder Server kann eigene Regeln aufstellen, aber im Allgemeinen ist es wichtig, die Mitglieder der Community mit <mark>freundlich und respektvoll</mark> zu behandeln.  Einiges gibt es dabei zu beachten:</p>"
     },
     "faq_rules_general": {
         "en-us": "<li><mark>caption your images</mark>, so that those who can't see them still get to enjoy them</li><li>use <mark>hashtags</mark> generously, this is how others can find your posts</li><li>if your server has this features, use <mark>content warnings</mark> as appropriate</li><li>if you see something wrong, <mark>report it to the admins</mark></li>",
@@ -93,7 +93,7 @@
         "ru": "<li><mark>заполняйте описания картинок</mark>, чтобы те, кто не могут эти картинки увидеть, всё ещё могли бы насладиться их содержимым.</li><li>используйте <mark>хэштеги</mark>, именно так остальные смогут найти ваши посты.</li><li>Если у вашего сервера есть эта функция, используйте <mark>предупреждения о чувствительном содержимом</mark>, когда нужно.</li><li>Если вы замечаете что-то непотребное, <mark>уведомляйте об этом администрацию</mark></li>",
         "fr": "<li><mark>légendez vos images</mark>, pour que les personnes qui ne peuvent les voir puissent en profiter aussi,</li><li>utilisez les <mark>hashtags</mark> généreusement, pour que les autres utilisateurs puissent trouver vos posts,</li><li>si votre serveur le propose, utilisez les <mark>content warnings</mark> (CW ou avertissement de contenu), si nécessaire,</li><li>si vous rencontrez quelque chose de choquant, adressez un <mark>signalement aux administrateurs.</mark></li>",
         "ar": "<li> <mark> علق على صورك </ mark> ، حتى يتمكن الأشخاص الذين لا يمكنهم رؤيتها من الاستمتاع بها </ li> <li> استخدام <mark> علامات التصنيف </ mark> بسخاء ، هكذا يفعل الآخرون يمكنه العثور على مشاركاتك </ li> <li> إذا كان السرفير الخاص بك يحتوي على هذه الميزات ، فاستخدم <mark> تحذيرات المحتوى </ mark> بالشكل المناسب </ li> <li> إذا رأيت شيئًا خاطئًا ، <mark> أبلغ عنه إلى المشرفون </mark> </li>",
-        "de-de": "<li><mark>Beschreibe deine Bilder</mark>, damit auch Leute Freude an ihnen haben, die nicht sehen können</li><li>Verwende großzügig <mark>Hashtags</mark>, so können andere deine Beiträge finden</li><li>Wenn dein Server über diese Funktion verfügt, verwende <mark>Inhaltswarnungen</mark>, wo sie angemessen sind</li><li>Wenn dir etwas nicht richtig vorkommt, <mark>melde es den Admins</mark></li>"
+        "de-DE": "<li><mark>Beschreibe deine Bilder</mark>, damit auch Leute Freude an ihnen haben, die nicht sehen können</li><li>Verwende großzügig <mark>Hashtags</mark>, so können andere deine Beiträge finden</li><li>Wenn dein Server über diese Funktion verfügt, verwende <mark>Inhaltswarnungen</mark>, wo sie angemessen sind</li><li>Wenn dir etwas nicht richtig vorkommt, <mark>melde es den Admins</mark></li>"
     },
     "resources_title": {
         "en-us": "Resources",
@@ -101,7 +101,7 @@
         "ru": "Ресурсы",
         "fr": "Ressources",
         "ar": "موارد",
-        "de-de": "Ressourcen"
+        "de-DE": "Ressourcen"
     },
     "resource_summmer_of_decentralized_social_title": {
         "en-us": "The summer of decentralized social",
@@ -109,7 +109,7 @@
         "ru": "Лето децентрализованных социальных сетей",
         "fr": "L'avènement de la décentralisation sociale",
         "ar": "صيف اللامركزية الاجتماعية",
-        "de-de": "Der Sommer der dezentralisierten sozialen Medien"
+        "de-De": "Der Sommer der dezentralisierten sozialen Medien"
     },
     "resource_summmer_of_decentralized_social_description": {
         "en-us": "everything you want to know about decentralized social networks and the protocols that power them",
@@ -117,7 +117,7 @@
         "ru": "всё, что вы хотели знать про децентрализованные социальные сети и протоколы, которые они используют",
         "fr": "tout ce que vous devez savoir sur les réseaux sociaux décentralisés et les protocoles qui les animent",
         "ar": "كل ما تريد معرفته عن الشبكات الاجتماعية اللامركزية والبروتوكولات التي تشغلها",
-         "de-de": "was Du über dezentralisierte soziale Netzwerke und die zugrunde liegenden Protokolle wissen solltest"
+        "de-DE": "was Du über dezentralisierte soziale Netzwerke und die zugrunde liegenden Protokolle wissen solltest"
     },
     "resource_joinfediverse_wiki_description": {
         "en-us": "an encyclopedia dedicated to all things fediverse",
@@ -125,7 +125,7 @@
         "ru": "энциклопедия, посвящённая всему федивёрсному",
         "fr": "une encyclopédie dédiée à tout ce qui concerne le fediverse",
         "ar": "موسوعة مخصصة لكل ما في الفديفيرس",
-         "de-de": "eine Enzyklopädie rund um das Fediverse",
+        "de-DE": "eine Enzyklopädie rund um das Fediverse"
 
     },
     "resource_fediverse_info_description": {
@@ -134,7 +134,7 @@
         "ru": "узнайте больше про fediverse, просматривайте популярные темы и сообщества, и многое другое",
         "fr": "comprendre le fediverse, parcourir les sujets et communautés en vogue, et plus encore",
         "ar": "تعرف على الفديفيرس، تصفح الموضوعات والمجتمعات الشائعة ، والمزيد",
-        "de-de": "erfahre mehr über das Fediverse,  informiere Dich über aktuell relevance Themen und Communities und vieles mehr"
+        "de-DE": "erfahre mehr über das Fediverse,  informiere Dich über aktuell relevance Themen und Communities und vieles mehr"
     },
     "resource_fediverse_observer_description": {
         "en-us": "find communities and dive deeper into the data about the fediverse ",
@@ -142,7 +142,7 @@
         "ru": "найдите сообщества и погрузитесь глубже в информацию о fediverse",
         "fr": "trouver des communautés et s'immerger dans les données du fediverse",
         "ar": "العثور على المجتمعات والتعمق في البيانات حول الفديفيرس",
-        "de-de":"Communities finden und einen tieferen Einblick in die Daten des Fediversums erhalten"
+        "de-DE":"Communities finden und einen tieferen Einblick in die Daten des Fediversums erhalten"
     },
     "resource_fediverse_party_description": {
         "en-us": "a quick look into fediverse networks",
@@ -150,7 +150,7 @@
         "ru": "быстрый взгляд на fediverse сети",
         "fr": "survol rapide des réseaux dans le fediverse",
         "ar": "نظرة سريعة على الشبكات الفديفيرس",
-        "de-de":"ein kurzer Überblick über Fediverse-Netzwerke"
+        "de-DE":"ein kurzer Überblick über Fediverse-Netzwerke"
     },
     "resource_fedi_tips_description": {
         "en-us": "non-technical guide to using Mastodon and the wider fediverse",
@@ -158,7 +158,7 @@
         "ru": "нетехническое руководство пользования Mastodon и fediverse в целом",
         "fr": "guide non-technique pour utiliser Mastodon et le fediverse au sens large",
         "ar": "دليل غير تقني لاستخدام المستودون و الفديفيرس",
-        "de-de":"nicht-technischer Leitfaden zur Nutzung von Mastodon und dem gesamten Fediverse"
+        "de-DE":"nicht-technischer Leitfaden zur Nutzung von Mastodon und dem gesamten Fediverse"
     },
     "resource_fediverse_report_description": {
         "en-us": "hints and tips about Mastodon and the fediverse",
@@ -166,7 +166,7 @@
         "ru": "подсказки и советы по Mastodon и fediverse",
         "fr": "trucs et astuces pour Mastodon et le fediverse",
         "ar": "تلميحات ونصائح حول المستودون والفدرالية",
-        "de-de":"Hinweise und Tipps zu Mastodon und dem Fediversum"
+        "de-DE":"Hinweise und Tipps zu Mastodon und dem Fediversum"
     },
     "resource_netizens_guide_title": {
         "en-us": "A netizen's guide to Mastodon and the fediverse",
@@ -174,7 +174,7 @@
         "ru": "Путеводитель по Mastodon и fediverse",
         "fr": "Le guide du netizen pour Mastodon et le fediverse",
         "ar": "تلميحات ونصائح حول المستودون و الفديفيرس",
-        "de-de":"Ein Netizen-Führer zu Mastodon und dem Fediversum"
+        "de-DE":"Ein Netizen-Führer zu Mastodon und dem Fediversum"
     },
     "cta_home": {
         "en-us": "Go back home",
@@ -182,7 +182,7 @@
         "ru": "Вернуться домой",
         "fr": "Retour à l'accueil",
         "ar": "العودة الصفحة الرئيسية",
-        "de-de":"Zurück zur Hauptseite"
+        "de-DE":"Zurück zur Hauptseite"
     },
     "cta_or": {
         "en-us": "or",
